@@ -1,0 +1,15 @@
+/Users/ramin.aslami/RiderProjects/AlgorithmsDatastructures/AlgorithmsDatastructures/bin/Debug/net7.0/AlgorithmsDatastructures
+/Users/ramin.aslami/RiderProjects/AlgorithmsDatastructures/AlgorithmsDatastructures/bin/Debug/net7.0/AlgorithmsDatastructures.deps.json
+/Users/ramin.aslami/RiderProjects/AlgorithmsDatastructures/AlgorithmsDatastructures/bin/Debug/net7.0/AlgorithmsDatastructures.runtimeconfig.json
+/Users/ramin.aslami/RiderProjects/AlgorithmsDatastructures/AlgorithmsDatastructures/bin/Debug/net7.0/AlgorithmsDatastructures.dll
+/Users/ramin.aslami/RiderProjects/AlgorithmsDatastructures/AlgorithmsDatastructures/bin/Debug/net7.0/AlgorithmsDatastructures.pdb
+/Users/ramin.aslami/RiderProjects/AlgorithmsDatastructures/AlgorithmsDatastructures/obj/Debug/net7.0/AlgorithmsDatastructures.csproj.AssemblyReference.cache
+/Users/ramin.aslami/RiderProjects/AlgorithmsDatastructures/AlgorithmsDatastructures/obj/Debug/net7.0/AlgorithmsDatastructures.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ramin.aslami/RiderProjects/AlgorithmsDatastructures/AlgorithmsDatastructures/obj/Debug/net7.0/AlgorithmsDatastructures.AssemblyInfoInputs.cache
+/Users/ramin.aslami/RiderProjects/AlgorithmsDatastructures/AlgorithmsDatastructures/obj/Debug/net7.0/AlgorithmsDatastructures.AssemblyInfo.cs
+/Users/ramin.aslami/RiderProjects/AlgorithmsDatastructures/AlgorithmsDatastructures/obj/Debug/net7.0/AlgorithmsDatastructures.csproj.CoreCompileInputs.cache
+/Users/ramin.aslami/RiderProjects/AlgorithmsDatastructures/AlgorithmsDatastructures/obj/Debug/net7.0/AlgorithmsDatastructures.dll
+/Users/ramin.aslami/RiderProjects/AlgorithmsDatastructures/AlgorithmsDatastructures/obj/Debug/net7.0/refint/AlgorithmsDatastructures.dll
+/Users/ramin.aslami/RiderProjects/AlgorithmsDatastructures/AlgorithmsDatastructures/obj/Debug/net7.0/AlgorithmsDatastructures.pdb
+/Users/ramin.aslami/RiderProjects/AlgorithmsDatastructures/AlgorithmsDatastructures/obj/Debug/net7.0/AlgorithmsDatastructures.genruntimeconfig.cache
+/Users/ramin.aslami/RiderProjects/AlgorithmsDatastructures/AlgorithmsDatastructures/obj/Debug/net7.0/ref/AlgorithmsDatastructures.dll
